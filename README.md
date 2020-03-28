@@ -1,5 +1,5 @@
 # CSS3选择器
-[css3笔记][https://github.com/yangxuefeng753/yxf/blob/master/Css3%E7%AC%94%E8%AE%B0.md]
+[css3笔记](https://github.com/yangxuefeng753/yxf/blob/master/Css3%E7%AC%94%E8%AE%B0.md)
 ## 兄弟选择器：
 1. 相邻兄弟选择器
 	匹配的是相邻兄弟元素
